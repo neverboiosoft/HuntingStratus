@@ -1,0 +1,740 @@
+﻿Log file open, 07/30/19 19:24:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HuntingStratum
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.221198
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 950
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:901][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.30-17.24.57:904][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.30-17.24.57:905][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.30-17.24.57:905][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-17.24.57:905][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.30-17.24.58:054][  0]LogHAL: Display: Platform has ~ 16 GB [17065336832 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.30-17.24.58:054][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.30-17.24.58:055][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.07.30-17.24.58:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Scalability.ini]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.07.30-17.24.58:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.30-17.24.58:069][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.30-17.24.58:069][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.30-17.24.58:069][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Config/Windows/Engine.ini]
+[2019.07.30-17.24.58:069][  0]LogInit: Computer: CABASITOS-PC
+[2019.07.30-17.24.58:069][  0]LogInit: User: Antonio
+[2019.07.30-17.24.58:069][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.30-17.24.58:069][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.30-17.24.58:069][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.30-17.24.58:069][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.30-17.24.58:069][  0]LogMemory: Process Physical Memory: 96.74 MB used, 96.75 MB peak
+[2019.07.30-17.24.58:069][  0]LogMemory: Process Virtual Memory: 91.93 MB used, 91.93 MB peak
+[2019.07.30-17.24.58:069][  0]LogMemory: Physical Memory: 3535.30 MB used,  12739.48 MB free, 16274.77 MB total
+[2019.07.30-17.24.58:069][  0]LogMemory: Virtual Memory: 4647.13 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.07.30-17.24.58:418][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.07.30-17.24.58:419][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.07.30-17.24.58:419][  0]LogInit: Using OS detected locale (es-ES).
+[2019.07.30-17.24.59:074][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.30-17.24.59:261][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.30-17.24.59:261][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.30-17.25.02:768][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.30-17.25.02:768][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.30-17.25.02:837][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2019.07.30-17.25.02:837][  0]LogD3D11RHI:       2007/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.30-17.25.02:840][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.30-17.25.02:840][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.30-17.25.02:840][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.30-17.25.02:846][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.30-17.25.02:846][  0]LogD3D11RHI:     GPU DeviceId: 0x1402 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.30-17.25.02:846][  0]LogWindows: EnumDisplayDevices:
+[2019.07.30-17.25.02:846][  0]LogWindows:    0. 'NVIDIA GeForce GTX 950' (P:1 D:1)
+[2019.07.30-17.25.02:847][  0]LogWindows:    1. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.07.30-17.25.02:847][  0]LogWindows:    2. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.07.30-17.25.02:847][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2019.07.30-17.25.02:847][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.30-17.25.02:847][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950
+[2019.07.30-17.25.02:847][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.07.30-17.25.02:847][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.07.30-17.25.02:847][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.07.30-17.25.02:890][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.30-17.25.02:922][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.25.02:922][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.25.02:922][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.30-17.25.02:930][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.30-17.25.03:492][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.30-17.25.03:508][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.30-17.25.03:523][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.30-17.25.03:538][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.30-17.25.03:567][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.30-17.25.03:582][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.30-17.25.03:597][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.30-17.25.03:611][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.30-17.25.03:619][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.30-17.25.03:722][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.30-17.25.03:724][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.30-17.25.03:806][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.30-17.25.03:806][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.30-17.25.03:831][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.30-17.25.03:831][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.30-17.25.03:844][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.30-17.25.03:857][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.30-17.25.03:871][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.30-17.25.03:904][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.30-17.25.03:951][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.30-17.25.03:951][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.30-17.25.03:951][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.30-17.25.04:063][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.30-17.25.04:225][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Intermediate/Shaders/WorkingDirectory/6252/).
+[2019.07.30-17.25.04:225][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Antonio/AppData/Local/Temp/UnrealShaderWorkingDir/D0800C704D4C94DFA4EC4C814BD220FD/'.
+[2019.07.30-17.25.04:228][  0]LogXGEController: Cleaning working directory: C:/Users/Antonio/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.30-17.25.04:228][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.30-17.25.04:229][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.30-17.25.04:229][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.30-17.25.07:999][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.30-17.25.08:516][  0]LogDerivedDataCache: Loaded boot cache 0.52s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-17.25.08:516][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.30-17.25.08:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.30-17.25.08:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.30-17.25.08:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-17.25.08:517][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.30-17.25.08:590][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.30-17.25.08:590][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.30-17.25.08:590][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.30-17.25.08:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Antonio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.30-17.25.08:602][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.30-17.25.08:602][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.30-17.25.08:631][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.30-17.25.08:631][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.30-17.25.08:717][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.30-17.25.10:487][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2019.07.30-17.25.10:882][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.30-17.25.11:429][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.30-17.25.11:429][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.30-17.25.11:429][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.30-17.25.11:429][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.30-17.25.11:429][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.30-17.25.11:621][  0]LogNetVersion: HuntingStratum 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 584085585)
+[2019.07.30-17.25.13:870][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.049404 seconds
+[2019.07.30-17.25.13:877][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.30-17.25.13:877][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.30-17.25.13:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.30-17.25.30:328][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.30-17.25.30:343][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.30-17.25.30:599][  0]SourceControl: Source control is disabled
+[2019.07.30-17.25.30:599][  0]SourceControl: Source control is disabled
+[2019.07.30-17.25.30:601][  0]SourceControl: Source control is disabled
+[2019.07.30-17.25.30:603][  0]SourceControl: Source control is disabled
+[2019.07.30-17.25.30:919][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.30-17.25.31:047][  0]LogOcInput: OculusInput pre-init called
+[2019.07.30-17.25.32:333][  0]LogEngine: Initializing Engine...
+[2019.07.30-17.25.32:334][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.30-17.25.32:335][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.30-17.25.33:043][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.30-17.25.33:057][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.30-17.25.33:162][  0]LogInit: XAudio2 using 'VG270 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-17.25.33:219][  0]LogInit: FAudioDevice initialized.
+[2019.07.30-17.25.33:219][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.30-17.25.33:518][  0]LogDerivedDataCache: Saved boot cache 0.30s 71MB C:/Users/Antonio/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.30-17.25.33:528][  0]LogInit: Texture streaming: Enabled
+[2019.07.30-17.25.33:557][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.30-17.25.33:758][  0]LogInit: Transaction tracking system initialized
+[2019.07.30-17.25.33:784][  0]BlueprintLog: New page: Editor Load
+[2019.07.30-17.25.33:980][  0]LocalizationService: Localization service is disabled
+[2019.07.30-17.25.38:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/' took 0.02s
+[2019.07.30-17.25.38:369][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.30-17.25.38:369][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.30-17.25.41:001][  0]SourceControl: Source control is disabled
+[2019.07.30-17.25.41:001][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.30-17.25.41:002][  0]LightingResults: New page: Lighting Build
+[2019.07.30-17.25.41:005][  0]MapCheck: New page: Map Check
+[2019.07.30-17.25.41:005][  0]LightingResults: New page: Lighting Build
+[2019.07.30-17.25.41:030][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.07.30-17.25.44:075][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-17.25.44:133][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.30-17.25.44:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.30-17.25.44:163][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.30-17.25.44:163][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,172ms to complete.
+[2019.07.30-17.25.44:163][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 3.161
+[2019.07.30-17.25.44:375][  0]LogCollectionManager: Loaded 0 collections in 0.002639 seconds
+[2019.07.30-17.25.44:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/Collections/' took 0.01s
+[2019.07.30-17.25.44:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/Developers/Antonio/Collections/' took 0.00s
+[2019.07.30-17.25.44:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/Collections/' took 0.00s
+[2019.07.30-17.25.44:392][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.30-17.25.44:400][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2732 classes and 659 folders.
+[2019.07.30-17.25.44:407][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.25.44:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.44:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:022][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.45:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.46:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.46:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.46:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.46:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.30-17.25.47:442][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.25.47:514][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.25.47:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.25.47:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.25.47:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.25.47:547][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.30-17.25.47:573][  0]LogSlate: Took 0.005350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.30-17.25.47:582][  0]LogSlate: Took 0.005442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.30-17.25.47:594][  0]LogSlate: Took 0.011370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.30-17.25.47:847][  0]LogRenderer: Reallocating scene render targets to support 1016x924 Format 9 NumSamples 1 (Frame:1).
+[2019.07.30-17.25.47:960][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.07.30-17.25.47:986][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.30-17.25.47:986][  0]LogLoad: (Engine Initialization) Total time: 58.59 seconds
+[2019.07.30-17.25.47:986][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.30-17.25.48:026][  0]LogAssetRegistry: Asset discovery search completed in 37.5629 seconds
+[2019.07.30-17.25.48:029][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.30-17.25.48:029][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.07.30-17.25.48:030][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.07.30-17.25.48:424][  0]LogSlate: Took 0.368700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-17.25.49:397][  3]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.30-17.27.17:108][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.27.18:988][284]Cmd: DELETE
+[2019.07.30-17.27.18:988][284]Cmd: ACTOR DELETE
+[2019.07.30-17.27.18:989][284]LogEditorActor: Deleted Actor: BP_Spawner_C
+[2019.07.30-17.27.19:016][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.07.30-17.27.19:016][284]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.07.30-17.27.20:002][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-17.27.20:035][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.30-17.27.20:212][401]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMapBC00C423491D0D7EE547DAB5EC49B8C7.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.30-17.27.20:269][401]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltDataFDEB14A14483BA1300CD389A68D52693.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.30-17.27.21:382][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.27.27:194][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.07.30-17.27.28:805][174]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.30-17.27.28:868][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.07.30-17.27.28:901][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.07.30-17.27.28:925][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.07.30-17.27.31:370][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.07.30-17.27.34:213][463]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.30-17.27.34:269][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.07.30-17.27.34:300][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.07.30-17.27.34:324][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.07.30-17.27.40:095][155]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.07.30-17.27.47:946][962]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.07.30-17.27.50:460][253]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.07.30-17.27.59:252][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.28.05:025][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.28.10:298][527]Cmd: TRANSACTION UNDO
+[2019.07.30-17.28.10:298][527]LogEditorTransaction: Undo Scale Actors
+[2019.07.30-17.28.25:329][296]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-17.28.25:367][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.07.30-17.28.25:480][296]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap77665999467FDA9EE099AA948F8ADEF8.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.30-17.28.25:534][296]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltData1AE6B76C4F97082B29EFF3B39993B747.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.30-17.28.26:605][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.28.26:671][388]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.30-17.28.26:685][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.28.26:685][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.30-17.28.26:686][388]PIE: New page: PIE session: SideScrollerExampleMap (30/7/2019 21:28:26)
+[2019.07.30-17.28.26:698][388]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.30-17.28.26:710][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011842s)
+[2019.07.30-17.28.26:711][388]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.30-17.28.26:711][388]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2019.07.30-17.28.26:711][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013320s)
+[2019.07.30-17.28.26:740][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.30-17.28.26:755][388]LogInit: XAudio2 using 'VG270 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.30-17.28.26:767][388]LogInit: FAudioDevice initialized.
+[2019.07.30-17.28.26:817][388]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.07.30-17.28.26:820][388]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.30-19.28.26
+[2019.07.30-17.28.26:820][388]LogWorld: Bringing up level for play took: 0.001428
+[2019.07.30-17.28.26:848][388]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.07.30-17.28.26:848][388]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0,278
+[2019.07.30-17.28.26:849][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.28.33:719][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.28.33:719][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.28.33:747][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.30-17.28.33:748][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.30-17.28.33:775][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.30-17.28.33:778][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.07.30-17.28.33:823][210]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.07.30-17.28.46:825][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.29.02:076][782]LogSlate: Window 'Color Picker' being destroyed
+[2019.07.30-17.29.06:478][192]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.30-17.29.11:902][839]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BaseItem.BaseItem
+[2019.07.30-17.29.12:494][839]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.07.30-17.29.13:750][839]LogRenderer: Reallocating scene render targets to support 1244x924 Format 9 NumSamples 1 (Frame:1).
+[2019.07.30-17.29.15:168][979]LogSlate: Window 'BaseItem' being destroyed
+[2019.07.30-17.29.15:843][ 60]BlueprintLog: New page: Compile BaseItem
+[2019.07.30-17.29.15:986][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.07.30-17.29.16:418][ 92]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BaseItemA88CC0644A4401B820BED381B1C5906B.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BaseItem.uasset'
+[2019.07.30-17.29.20:933][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.SKEL_BP_BaseItem_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem_C' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem:EventGraph.K2Node_Event_0' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem:EventGraph.K2Node_Event_1' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:938][611]LogMetaData: Removing '/Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem:EventGraph.K2Node_Event_2' ref from Metadata '/Game/SideScrollerBP/Blueprints/Items/BaseItem.PackageMetaData'
+[2019.07.30-17.29.20:966][611]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItem8AE77F5C4FC4120E9DF341A27D86AD84.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.29.21:101][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.07.30-17.29.21:141][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.07.30-17.29.21:173][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.07.30-17.29.37:906][143]LogSlate: Took 0.023255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.30-17.29.57:836][527]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.29.57:990][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.07.30-17.29.58:398][563]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItem25AE247B421368E551E2718F4DB294B8.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.30.02:871][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.30.43:097][405]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.30.43:257][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.07.30-17.30.44:838][582]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItemA8F97AF542A9D947B1FB9AA5A9F44FCB.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.30.46:039][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.07.30-17.30.46:195][719]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap7CDC967B436605999BEE24851FEF0187.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.30-17.30.46:242][719]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltDataE89FB2B549C271EF07AF9F9749A364EB.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.30-17.32.16:382][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-17.32.51:715][951]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItemFF8CA557491BEC1ECCA64080F4293D2C.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.32.52:395][ 31]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.32.52:558][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.07.30-17.32.52:823][ 38]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItemFD7D798E4FA95E2BA06E3CB45C8B5E5D.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.33.11:611][954]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.33.11:769][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.07.30-17.33.12:117][972]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItem8D72843C41DE4603A46A8E8BB9AA4F6B.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.33.49:560][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.07.30-17.33.49:728][510]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap7DA7FE49407E3295EAE324BA01307994.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.30-17.33.49:779][510]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltData644BC57642DA49BBF47939AD6764E3E7.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.30-17.33.59:063][200]LogSlate: Took 0.012187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.30-17.34.13:748][692]LogSlate: Took 0.018880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.30-17.35.10:790][856]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.35.10:959][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.07.30-17.36.46:884][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-17.37.34:149][856]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.37.34:151][856]LogClass: Warning: Type mismatch in ItemWeight of BP_BaseItem_C - Previous (ArrayProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.07.30-17.37.34:151][856]LogClass: Warning: Type mismatch in MaxStackSize of BP_BaseItem_C - Previous (ArrayProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.07.30-17.37.34:151][856]LogClass: Warning: Type mismatch in MaxStackSize_0 of BP_BaseItem_C - Previous (ArrayProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.07.30-17.37.34:315][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.07.30-17.38.16:650][177]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.38.16:812][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.07.30-17.38.17:555][250]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItem57EAB0224DFD5A1306424FAD263AB777.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.38.18:869][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.07.30-17.38.19:029][400]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap57068175410E30D8FE5F5ABBD6ED6917.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.30-17.38.19:075][400]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltData882A4EA54D7880AC7CA123B9B6EE1F2E.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.30-17.38.43:719][969]LogSlate: Window 'BP_BaseItem' being destroyed
+[2019.07.30-17.38.45:161][142]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.38.45:320][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.07.30-17.38.45:541][158]LogSavePackage: Moving '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Saved/BP_BaseItem7E7772CE4932521B9037C8AF4950E259.tmp' to '../../../../../../Users/Antonio/Documents/GitHub/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Blueprints/Items/BP_BaseItem.uasset'
+[2019.07.30-17.40.08:273][945]BlueprintLog: New page: Compile BP_BaseItem
+[2019.07.30-17.40.08:275][945]LogClass: Warning: Type mismatch in ItemName of BP_BaseItem_C - Previous (FloatProperty) Current(NameProperty) for package:  FObjectReader
+[2019.07.30-17.40.08:278][945]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.30-17.40.09:935][945]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.656 s
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: 
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp] [Line: 46]
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name '0.000000'! You must pass in fully qualified package names
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: Stack: 
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99f84a77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99ec7a66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99e09457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99e1b07a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99e14841 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99e6683e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe99bcdef4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe95421e14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe90df047d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe90e216a8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe92238613 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe921ef561 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe921a20f6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe95465644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe9228dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe922a9188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.30-17.40.09:935][945]LogOutputDevice: Error: [Callstack] 0x00007ffe963a180a UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe96479122 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe9645aa84 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe96512a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe96364021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe963e0301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe963caaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffe963c0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffeafc5b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffeafc4ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffeafc5d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffeafc4c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffef0beca66 USER32.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffef0bec582 USER32.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffeafc5e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ff678565d3e UE4Editor.exe!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ff67857554c UE4Editor.exe!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ff6785755ca UE4Editor.exe!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ff67858316c UE4Editor.exe!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ff678585b8e UE4Editor.exe!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffef0207974 KERNEL32.DLL!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: [Callstack] 0x00007ffef2bfa271 ntdll.dll!UnknownFunction []
+[2019.07.30-17.40.09:936][945]LogOutputDevice: Error: 
+[2019.07.30-17.40.09:967][945]LogStats:                SubmitErrorReport -  0.000 s
