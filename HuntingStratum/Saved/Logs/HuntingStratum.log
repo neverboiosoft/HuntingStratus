@@ -1311,3 +1311,61 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.31-11.37.49:053][724]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem
 [2019.07.31-11.37.59:698][860]LogSlate: Window 'BP_BaseItem' being destroyed
 [2019.07.31-11.37.59:703][860]LogSlate: Window 'BP_BaseItem' being destroyed
+[2019.07.31-11.42.33:837][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.07.31-11.42.33:837][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.045
+[2019.07.31-11.42.33:839][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mats/Shiny] ([1] browsable assets)...
+[2019.07.31-11.42.33:839][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mats/Shiny]
+[2019.07.31-11.42.33:858][ 74]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/Shiny_Auto2DD6255A94C8AB5DCE04491A2EBACC2F2.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/Autosaves/Game/Mats/Shiny_Auto2.uasset'
+[2019.07.31-11.42.33:858][ 74]LogFileHelpers: Auto-saving content packages took 0.021
+[2019.07.31-12.10.53:855][ 97]LogUObjectHash: Compacting FUObjectHashTables data took  14.76ms
+[2019.07.31-12.11.01:555][ 97]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMapD5098DD84EA225669EF212B0738DDEC0.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.31-12.11.01:985][ 97]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltDataF2629BE5417B7CF2A2D609B9D91A330E.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.31-12.11.16:082][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.11.16:174][441]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.31-12.11.16:322][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.31-12.11.16:386][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.31-12.11.16:492][441]PIE: New page: PIE session: SideScrollerExampleMap (Jul 31, 2019, 4:11:16 PM)
+[2019.07.31-12.11.16:620][441]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.07.31-12.11.17:478][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.857421s)
+[2019.07.31-12.11.18:015][441]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.07.31-12.11.18:219][441]LogPlayLevel: PIE: World Init took: (0.741632s)
+[2019.07.31-12.11.18:240][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (1.620062s)
+[2019.07.31-12.11.18:273][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.07.31-12.11.18:788][441]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.31-12.11.18:857][441]LogInit: FAudioDevice initialized.
+[2019.07.31-12.11.19:310][441]LogLoad: Game class is 'GameModeBase'
+[2019.07.31-12.11.19:928][441]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.07.31-14.11.19
+[2019.07.31-12.11.20:044][441]LogWorld: Bringing up level for play took: 0.508063
+[2019.07.31-12.11.20:582][441]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 4.278
+[2019.07.31-12.11.20:721][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.31-12.11.33:307][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.31-12.11.33:319][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-12.11.33:674][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.31-12.11.33:674][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.07.31-12.11.33:830][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-12.11.34:040][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.07.31-12.11.34:135][824]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.31-12.11.34:341][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-12.11.34:378][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.07.31-12.11.34:553][844]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap1484960E4409B9684B10BE8379815D06.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.07.31-12.11.34:636][844]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltData1F24128E4B7B764336D74DA92679D850.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.07.31-12.11.36:768][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.12.03:164][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.07.31-12.12.05:316][806]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.31-12.12.06:214][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.07.31-12.12.07:376][894]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.31-12.12.07:391][894]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideSroller/SideScrollerCharacter.SideScrollerCharacter
+[2019.07.31-12.12.18:443][686]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2019.07.31-12.12.18:450][686]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2019.07.31-12.12.19:511][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.07.31-12.12.21:410][786]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.31-12.12.22:083][860]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BP_BaseInventory.BP_BaseInventory
+[2019.07.31-12.12.26:624][254]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-12.12.26:627][254]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-12.12.27:146][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.07.31-12.12.28:674][301]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.31-12.12.28:679][301]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SideScrollerBP/Blueprints/Items/BP_BaseInventory.BP_BaseInventory
+[2019.07.31-12.12.31:329][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.07.31-12.12.31:363][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.31-12.12.31:394][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
