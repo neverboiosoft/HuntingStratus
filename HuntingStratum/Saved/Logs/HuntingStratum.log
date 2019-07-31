@@ -1302,3 +1302,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.31-11.32.33:452][144]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMapD24025E74BB4F6221B991AAF80D8DB13.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2019.07.31-11.32.33:538][144]LogSavePackage: Moving '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Saved/SideScrollerExampleMap_BuiltData667D654149BF5C9B5892A6BC7F6F3BC3.tmp' to '../../../../../HuntingStratumProject/HuntingStratumUEProject/HuntingStratus/HuntingStratum/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
 [2019.07.31-11.32.35:482][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-11.37.05:757][572]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BP_BaseInventory.BP_BaseInventory
+[2019.07.31-11.37.42:631][ 58]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-11.37.42:636][ 58]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-11.37.44:595][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BP_BaseInventory.BP_BaseInventory
+[2019.07.31-11.37.46:869][472]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-11.37.46:873][472]LogSlate: Window 'BP_BaseInventory' being destroyed
+[2019.07.31-11.37.49:053][724]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Items/BP_BaseItem.BP_BaseItem
+[2019.07.31-11.37.59:698][860]LogSlate: Window 'BP_BaseItem' being destroyed
+[2019.07.31-11.37.59:703][860]LogSlate: Window 'BP_BaseItem' being destroyed
